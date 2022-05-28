@@ -1,0 +1,10 @@
+{
+  "name": "Geometry#2",
+  "description": "Geometry is an NFT collection for educational purposes",
+  "image": "https://ipfs.io/ipfs/QmTJok2tju9zstjtAqESdZxTiUiFCBAyApHiDVj4maV75P/geo_2.png",
+  "attributes": [
+    {"trait_type": "background", "value": "magenta"},
+    {"trait_type":"color", "value": "green"},
+    {"trait-type": "shape", "value": "square"}
+  ]
+}
